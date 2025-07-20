@@ -1,0 +1,6 @@
+hospital_name,location,oxygen,bed,doctor_available,distance_km
+UrbanCare Hospital,Town A,Yes,Yes,Yes,15
+Village Health Center,Village B,Yes,No,Yes,5
+Sunrise Clinic,Town C,Yes,Yes,No,8
+MediPoint Hospital,Town D,No,Yes,Yes,12
+
